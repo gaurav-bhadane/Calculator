@@ -5,11 +5,14 @@
     font-family: 'Poppins',sans-serif;
     box-sizing: border-box;
 }
+body
+{
+    background-image: url(./background.jpg);
+}
 .container
 {
     width: 100%;
-    height: 100vh;
-    background-color: #e3f9ff;
+    height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -46,4 +49,14 @@ form .display input
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+}
+.heading
+{
+    display: flex;
+    justify-content: center;
+    font-family: unify sans bold;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    font-size: 40px;
 }
