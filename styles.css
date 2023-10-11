@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Poppins:wght@100;300;400;500;600&display=swap');
+
 *
 {
     margin: 0;
@@ -54,7 +56,7 @@ form .display input
 {
     display: flex;
     justify-content: center;
-    font-family: unify sans bold;
+    font-family: 'Poppins',sans-serif;
     color: white;
     margin: 10px;
     padding: 10px;
