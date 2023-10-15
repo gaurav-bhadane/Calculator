@@ -1,1 +1,1 @@
-# Basic Calculator App made Using HTML and CSS
+# Basic Calculator App made Using HTML and CSS with functionality
