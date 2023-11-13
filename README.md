@@ -1,1 +1,2 @@
-# Basic Calculator App made Using HTML and CSS with functionality for effortless calculations using Simple Basic Javascript evaluation
+# Calculator 
+Basic App made Using HTML and CSS with functionality for effortless calculations using Simple Basic Javascript evaluation
